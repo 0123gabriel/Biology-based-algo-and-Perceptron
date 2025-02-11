@@ -2,7 +2,7 @@
 
 This repository contains content developed during an AI course, covering three main areas:
 
-**1. Biology-Inspired Algorithms:** 
+**1. Biology-Inspired Algorithms** 
 
 It includes implementations of various bio-inspired optimization algorithms, such as:
   - **Genetic Algorithms (GA)**
@@ -10,7 +10,9 @@ It includes implementations of various bio-inspired optimization algorithms, suc
   - **Artificial Bee Colony (ABC)**
   - **Ant Colony Optimization (ACO)**
 
-**2. Perceptron:** Implementation and experimentation with a single-layer perceptron for basic machine learning tasks.
+**2. Perceptron** 
+
+Implementation and experimentation with a single-layer perceptron for basic machine learning tasks.
 
 
 **3. Functional Programming**
